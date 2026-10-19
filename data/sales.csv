@@ -1,0 +1,72 @@
+sale_id,product_id,quantity,sale_date,payment_method,customer_type
+S0001,P011,1,2026-01-01,Cash,Walk-in
+S0002,P004,1,02/01/2026,Card,Walk-in
+S0003,P011,4,2026/01/03,Cash,
+S0004,P007,1,,Cash,Walk-in
+S0005,P004,1,05-01-2026,Cash,
+S0006,P004,,2026-01-06,,Regular
+S0007,P008,3,07/01/2026,Mobile Money,Walk-in
+S0008,P013,5,2026/01/08,Card,Regular
+S0009,P006,2,,Card,Regular
+S0010,P013,2,10-01-2026,Cash,Walk-in
+S0011,P007,1,2026-01-11,Mobile Money,Walk-in
+S0012,P010,2,12/01/2026,Cash,Regular
+S0013,P009,1,2026/01/13,,Walk-in
+S0014,P009,2,,Mobile Money,
+S0015,P004,4,15-01-2026,Cash,Walk-in
+S0016,P011,1,2026-01-16,Mobile Money,Walk-in
+S0017,P014,1,17/01/2026,Cash,Regular
+S0018,P005,2,2026/01/18,Mobile Money,Regular
+S0019,P006,,,Card,Walk-in
+S0020,P012,4,20-01-2026,Cash,
+S0021,P011,1,2026-01-21,Card,Regular
+S0022,P008,2,22/01/2026,Mobile Money,
+S0023,P004,4,2026/01/23,Mobile Money,Walk-in
+S0024,P099,5,,Cash,Walk-in
+S0025,P007,2,25-01-2026,Cash,Regular
+S0026,P015,3,2026-01-26,Mobile Money,Regular
+S0027,P011,2,27/01/2026,,Regular
+S0028,P003,2,2026/01/28,Card,Regular
+S0029,P012,3,,Mobile Money,
+S0030,P007,3,02-01-2026,,Walk-in
+S0031,P004,1,2026-01-03,,Walk-in
+S0032,P013,1,04/01/2026,Cash,Regular
+S0033,P011,1,2026/01/05,,
+S0034,P002,,,,
+S0035,P008,3,07-01-2026,Mobile Money,
+S0036,P014,1,2026-01-08,Cash,
+S0037,P013,2,09/01/2026,Mobile Money,Walk-in
+S0038,P005,2,2026/01/10,Card,Regular
+S0039,P001,4,,Mobile Money,
+S0040,P013,1,12-01-2026,Cash,Walk-in
+S0041,P014,4,2026-02-13,Card,Regular
+S0042,P006,5,14/02/2026,Card,
+S0043,P013,3,2026/02/15,Cash,
+S0044,P006,2,,Cash,Walk-in
+S0045,P015,2,17-02-2026,Mobile Money,Regular
+S0046,P001,1,2026-02-18,Cash,Walk-in
+S0047,P012,2,19/02/2026,Cash,
+S0048,P099,1,2026/02/20,Card,Regular
+S0049,P009,1,,Mobile Money,
+S0050,P014,3,22-02-2026,,Regular
+S0051,P015,3,2026-02-23,Card,Walk-in
+S0052,P007,4,24/02/2026,Mobile Money,Regular
+S0053,P015,,2026/02/25,,Walk-in
+S0054,P004,1,,Cash,Walk-in
+S0055,P001,3,27-02-2026,Card,
+S0056,P004,1,2026-02-28,Cash,Walk-in
+S0057,P004,1,01/02/2026,Cash,Walk-in
+S0058,P002,3,2026/02/02,Card,Walk-in
+S0059,P011,2,,Card,
+S0060,P003,4,04-02-2026,,Regular
+S0061,P013,2,2026-02-05,,Regular
+S0062,P099,1,06/02/2026,,Walk-in
+S0063,P007,2,2026/02/07,,Walk-in
+S0064,P011,4,,Cash,Walk-in
+S0065,P007,4,09-02-2026,Mobile Money,Walk-in
+S0066,P004,1,2026-02-10,Card,
+S0067,P008,1,11/02/2026,,Regular
+S0068,P005,2,2026/02/12,Card,Walk-in
+S0069,P008,5,,Cash,Walk-in
+S0070,P011,3,14-02-2026,Cash,Walk-in
+S0011,P007,1,2026-01-11,Mobile Money,Walk-in

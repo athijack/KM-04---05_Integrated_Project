@@ -1,0 +1,17 @@
+product_id,product_name,category,unit_price,in_stock
+P001,Coca-Cola 500ml,Beverages,18.5,True
+P002,White Bread 700g,Bakery,16.0,True
+P003,Simba Chips 120g,Snacks,22.0,True
+P004,Airtime Voucher R10,Airtime & Data,10.0,True
+P005,Full Cream Milk 1L,Dairy,21.5,True
+P006,Sunlight Dishwashing Liquid,Household,,True
+P007,Bar One Chocolate,Snacks,14.0,True
+P008,5kg Maize Meal,Household,89.0,True
+P009,,Beverages,12.0,True
+P010,Data Bundle 1GB,Airtime & Data,49.0,False
+P011,Eggs (6 pack),Dairy,28.0,True
+P012,Fanta Orange 500ml,beverages,18.5,True
+P013,Lays Chips 100g,Snacks,,True
+P014,Sugar 1kg,Household,24.5,True
+P015,Coca-Cola 500ml,Beverages,18.5,True
+P003,Simba Chips 120g,Snacks,22.0,True
