@@ -41,3 +41,7 @@ part-time study, alongside the KM-04 and KM-05 contact sessions:
 A reference solution is available from your internal moderation
 process — it is intentionally not included in this student-facing
 package.
+
+Database Password:
+
+spaza2026
