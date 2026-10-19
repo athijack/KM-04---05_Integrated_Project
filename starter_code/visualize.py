@@ -100,3 +100,5 @@ def line_chart_monthly_trend(
     plt.savefig(save_path, dpi=150)
     plt.close()
     print(f"  Line chart saved to: {save_path}")
+
+# Task 5 complete — bar chart (revenue per product) and line chart (monthly trend).
