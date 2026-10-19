@@ -244,3 +244,5 @@ def query_custom_two(conn: sqlite3.Connection):
         ORDER BY month ASC
     """
     return conn.execute(sql).fetchall()
+
+# Task 3 complete — relational schema with primary/foreign keys and 5 SQL queries.
