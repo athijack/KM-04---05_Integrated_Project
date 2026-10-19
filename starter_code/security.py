@@ -103,3 +103,5 @@ if __name__ == "__main__":
     hashed = hash_password(pw)
     print(f"Hash of '{pw}':\n{hashed}")
     print(f"\nStored hash matches: {check_password(pw, STORED_PASSWORD_HASH)}")
+
+# Task 6 complete — SHA-256 password hashing gate with login_gate() and CIA-triad reflection.
