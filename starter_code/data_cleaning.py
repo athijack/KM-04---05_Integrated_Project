@@ -172,3 +172,5 @@ def cleaning_summary(raw_df: "pd.DataFrame", clean_df: "pd.DataFrame", name: str
     clean_count = len(clean_df)
     removed = raw_count - clean_count
     return f"{name}: {raw_count} raw rows -> {clean_count} clean rows ({removed} removed)"
+
+# Task 2 complete — data cleaning handles all products and sales CSV issues.
