@@ -122,3 +122,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Task 7 complete — main.py ties all modules together; README documents all findings.
