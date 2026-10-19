@@ -119,3 +119,5 @@ def average_basket_size(sales_rows: list) -> float:
         return 0.0
 
     return round(total / record_count, 2)
+
+# Task 4 complete — analysis using loops, conditionals, lists and dictionaries.
